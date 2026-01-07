@@ -1,40 +1,200 @@
 {
   "version": 1,
-  "base_track": "愛言葉Ⅳ",
-  "base_artist": "DECO*27",
-  "createdAt": "2026-01-07T10:59:08.954520Z",
+  "base_track": "美人 - From THE FIRST TAKE",
+  "base_artist": "CHANMINA",
+  "createdAt": "2026-01-07T11:00:15.025044Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "愛言葉Ⅳ - Love Words IV",
-      "artist": "DECO*27",
+      "title": "美人",
+      "artist": "Chanmina",
       "has_synced": true,
-      "path": "select/01_愛言葉IV_-_Love_Words_IV_DECO_27.lrc"
+      "path": "select/01_美人_Chanmina.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "愛言葉Ⅳ",
-      "artist": "DECO*27",
-      "has_synced": true,
-      "path": "select/02_愛言葉IV_DECO_27.lrc"
+      "title": "美人",
+      "artist": "Waa Wei",
+      "has_synced": false,
+      "path": "select/02_美人_Waa_Wei.txt"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "愛言葉Ⅳ",
-      "artist": "DECO_27",
+      "title": "美人 - From THE FIRST TAKE - BIJIN (From THE FIRST TAKE)",
+      "artist": "CHANMINA",
       "has_synced": true,
-      "path": "select/03_愛言葉IV_DECO_27.lrc"
+      "path": "select/03_美人_-_From_THE_FIRST_TAKE_-_BIJIN_(From_THE_FIRST_TAKE)_CHANMINA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "美人 - Live",
+      "artist": "CHANMINA",
+      "has_synced": true,
+      "path": "select/04_美人_-_Live_CHANMINA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "美人",
+      "artist": "魏如萱",
+      "has_synced": false,
+      "path": "select/05_美人_魏如萱.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "美人 - BIJIN",
+      "artist": "Chanmina",
+      "has_synced": false,
+      "path": "select/06_美人_-_BIJIN_Chanmina.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "美人 (BONAMANA)",
+      "artist": "SUPER JUNIOR",
+      "has_synced": false,
+      "path": "select/07_美人_(BONAMANA)_SUPER_JUNIOR.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "미인 (美人)",
+      "artist": "이기찬",
+      "has_synced": false,
+      "path": "select/08_미인_(美人)_이기찬.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "美人 (Bizin ／ Bonamana) (Japanese ver.)",
+      "artist": "슈퍼주니어",
+      "has_synced": false,
+      "path": "select/09_美人_(Bizin___Bonamana)_(Japanese_ver.)_슈퍼주니어.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "美人 (Bonamana) (Korean Ver.)",
+      "artist": "슈퍼주니어",
+      "has_synced": false,
+      "path": "select/10_美人_(Bonamana)_(Korean_Ver.)_슈퍼주니어.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "미인(美人)",
+      "artist": "휘성",
+      "has_synced": true,
+      "path": "select/11_미인(美人)_휘성.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "미인(美人)",
+      "artist": "이기찬",
+      "has_synced": false,
+      "path": "select/12_미인(美人)_이기찬.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "美人(BONAMANA) - Japanese Version",
+      "artist": "SUPER JUNIOR",
+      "has_synced": false,
+      "path": "select/13_美人(BONAMANA)_-_Japanese_Version_SUPER_JUNIOR.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "美人 / Bijin",
+      "artist": "ちゃんみな",
+      "has_synced": true,
+      "path": "select/14_美人___Bijin_ちゃんみな.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "美人(BONAMANA) (Japanese version)",
+      "artist": "SUPER JUNIOR",
+      "has_synced": false,
+      "path": "select/15_美人(BONAMANA)_(Japanese_version)_SUPER_JUNIOR.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "美人 (BONAMANA) -Less Vocal-",
+      "artist": "SUPER JUNIOR",
+      "has_synced": false,
+      "path": "select/16_美人_(BONAMANA)_-Less_Vocal-_SUPER_JUNIOR.txt"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "愛言葉Ⅳ",
-      "artist": "DECO*27",
+      "title": "美人",
+      "artist": "ちゃんみな",
       "has_synced": false,
-      "path": "select/pl_01_愛言葉IV_DECO_27.txt"
+      "path": "select/pl_01_美人_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "美人",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_02_美人_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "美人",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_03_美人_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "美人",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_04_美人_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "美人",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_05_美人_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "美人",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_06_美人_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "美人 - From THE FIRST TAKE",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_07_美人_-_From_THE_FIRST_TAKE_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "美人 (Remix) feat. Awich",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_08_美人_(Remix)_feat._Awich_ちゃんみな.txt"
     }
   ]
 }
